@@ -49,6 +49,6 @@ The output of the above command should look something like below, but the file p
 ```
 
 # Time taken
-When animal_crossing_web_scraper.py is first executed and it has create new documents for each of the pages it takes 23 mins to scrape through 6209 pages and create documents for each.
+When animal_crossing_web_scraper.py is first executed and it has create new documents for each of the pages it takes 22 mins to scrape through 6981 pages and create documents for each.
 
-Once the documents have been created for each of the pages and animal_crossing_web_scraper.py is executed again, it takes  mins to scrape through all pages and compare if there has been any changes. If there are any changes it will print the output to a output.log file, with the URL where the change has happened and it also shows the previous and current versions of that URL.
+Once the documents have been created for each of the pages and animal_crossing_web_scraper.py is executed again, it still takes 22 mins to scrape through all 6981 pages and compare if there has been any changes. If there are any changes it will print the output to a output.log file, with the URL where the change has happened and it also shows the previous and current versions of that URL.
